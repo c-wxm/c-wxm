@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # About Me
 
-Hi there! My name is Cole. I'm a Computer Science student & experienced Software Test Engineer.
+I'm a Computer Science student & experienced Software Test Engineer.
+
+I am currently working on mostly practice projects and small toolsets.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,linux,py,java,html,css,js,bootstrap,obsidian&theme=dark)](https://skillicons.dev)
 
