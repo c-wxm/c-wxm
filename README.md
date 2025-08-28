@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Computer Science student & experienced Software Test Engineer.
 
-Currently working on practice projects and CRUD tools.
-
 [![My Skills](https://skillicons.dev/icons?i=git,linux,py,java,cs,html,css,js,bash,powershell,bootstrap,obsidian&theme=dark)](https://skillicons.dev)
 
  
