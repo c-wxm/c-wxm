@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-Computer Science student & experienced Software Test Engineer.
+Software Engineering student & experienced Software Test Engineer.
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,py,java,cs,html,css,js,bash,powershell,bootstrap,obsidian&theme=dark)](https://skillicons.dev)
 
